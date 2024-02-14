@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Docker hot reload work</p>
+        <p>Docker hot reload works</p>
         <a
           className="App-link"
           href="https://reactjs.org"
